@@ -1,0 +1,43 @@
+ <style>
+  div {
+    height: 40px;
+    width: 70%;
+    background: red;
+    margin: 50px auto;
+    border-radius: 5px;
+  }
+
+  #rect {
+    animation-name: colorful;
+    animation-duration: 10s;
+  }
+  @keyframes colorful {
+    0% {
+      background-color: red;
+    }
+    14.28% {
+      background-color: orange;
+    }
+    28.56% {
+      background-color: yellow;
+    }
+    42.84% {
+      background-color: green;
+    }
+    57.12% {
+      background-color: blue;
+    }
+    71.4% {
+      background-color: indigo;
+    }
+    85.68% {
+      background-color: violet;
+    }
+    
+  }
+  
+  
+  
+  
+</style>
+<div id="rect"></div> 
