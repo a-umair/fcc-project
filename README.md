@@ -1,8 +1,8 @@
-## About Me
-I am a CS senior in college with little web development experience, so given the iterative nature of the freeCodeCamp coding challenges and projects, I decided it would be fun to tackle the freeCodeCamp curriculum in my spare time. I'm using this repository to hold myself publicly accountable.
+## Background
+Finding myself in possession of a newly minted domain name, and at the brink of installing WordPress, I realized it would be so much more fun to actually code [my website](https://uma1r.com) from scratch. Having worked a little on fCC two years ago, but having gotten sidetracked since, I decided to start from the beginning and document my journey here. Given the iterative nature of the freeCodeCamp coding challenges and projects, with new concepts introduced in separate modules, I find fCC to lend itself nicely to a 'git commit'-esque mode of documentation.
 
-## About freeCodeCamp.org
-freeCodeCamp needs no introduction since nearly every developer has likely heard of it by now, but for the uninitiated:-
+## About [freeCodeCamp.org](https://www.freecodecamp.org)
+Directly from freeCodeCamp's [Wikipedia entry](https://en.wikipedia.org/wiki/FreeCodeCamp):-
 
 > "Founded by Quincy Larson in October 2014, freeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, Medium publications and local organizations that intend to make learning web development accessible to anyone."
 
