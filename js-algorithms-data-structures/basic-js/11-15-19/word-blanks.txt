@@ -1,0 +1,6 @@
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+var wordBlanks = "The crazy " + myNoun + " jumped over the " + myAdjective + " walrus, and then " + myVerb + " " + myAdverb; // Only change this line;
