@@ -1,0 +1,18 @@
+// Example
+function ourFunctionWithArgs(a, b) {
+  console.log(a - b);
+}
+ourFunctionWithArgs(10, 5); // Outputs 5
+
+// Only change code below this line.
+function functionWithArgs(x, y){
+  console.log(x + y);
+}
+
+function testFun(param1, param2) {
+  console.log(param1 + param2);
+}
+
+testFun("hello", "world");
+
+functionWithArgs(786, 42)
